@@ -1,0 +1,1 @@
+var json_Masjid_8 = {"type":"FeatureCollection","name":"Masjid_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"2","masjid":"Masjid Aisa"},"geometry":{"type":"Point","coordinates":[101.574572429279797,-0.533246552810431]}}]}

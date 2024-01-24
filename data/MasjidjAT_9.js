@@ -1,0 +1,1 @@
+var json_MasjidjAT_9 = {"type":"FeatureCollection","name":"MasjidjAT_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"5","MASJID":"Majid AT TAQWA"},"geometry":{"type":"Point","coordinates":[101.57502595563065,-0.533590218740874]}}]}

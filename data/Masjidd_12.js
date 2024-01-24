@@ -1,0 +1,1 @@
+var json_Masjidd_12 = {"type":"FeatureCollection","name":"Masjidd_12","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"321","wa":"Surauh Al - Hidayah"},"geometry":{"type":"Point","coordinates":[101.573006214055908,-0.53357895100545]}}]}
